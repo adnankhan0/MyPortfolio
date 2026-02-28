@@ -1,5 +1,9 @@
 # Adnan Ali — Personal Portfolio
 
+**→ [Visit my portfolio](https://adnan-ali-portfolio.vercel.app)** *(live site)*
+
+---
+
 Premium personal portfolio for **Adnan Ali**: Software Engineer · BSCS Graduate (SZABIST) · Android · AI-Powered Applications.
 
 Built with **React**, **Vite**, and **Tailwind CSS**. Dark theme, glassmorphism, smooth scroll, and scroll-reveal animations.
