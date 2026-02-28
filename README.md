@@ -1,6 +1,6 @@
 # Adnan Ali — Personal Portfolio
 
-**→ [Visit my portfolio](https://adnan-ali-portfolio.vercel.app)** *(live site)*
+**→ [Visit my portfolio](https://adnanali-dev.vercel.app)** *(live site)*
 
 ---
 
